@@ -1,0 +1,14 @@
+body{ background-color: azure;
+    }
+h1{ font-family: 'oswald' 24px;
+    }
+h1[ device=ios]{background-color: aquamarine;
+    
+    }
+h1[position=vertical] {font-size: 60px}
+
+#image{ text-align: center; 
+        padding: 45px;
+        width: 100%;
+        max-width: 1020px}
+
